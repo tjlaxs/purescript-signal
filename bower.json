@@ -1,6 +1,6 @@
 {
   "name": "purescript-signal",
-  "version": "10.1.0",
+  "version": "10.1.0-tjlaxs",
   "repository": {
     "type": "git",
     "url": "git://github.com/bodil/purescript-signal.git"
